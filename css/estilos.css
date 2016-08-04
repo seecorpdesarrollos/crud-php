@@ -1,0 +1,32 @@
+thead{
+	background: #D11D1D;
+	color:#fff;
+	font-size: 25px;
+}
+.formulario{
+	width: 1000px;
+	height: auto;
+	margin-left: 8%;
+	background: #5C5980;
+	padding: 20px;
+	border-radius: 7px;
+}
+.form{
+	
+
+}
+input{
+	width: 400px;
+	padding: 5px;
+	margin:4px;
+
+}
+.alt1{
+	border:5px solid #FF3A05;
+}
+footer{
+	text-align: center;
+}
+#tabla td{
+	border:2px solid #E73B3B;
+}

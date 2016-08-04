@@ -1,0 +1,45 @@
+
+.contenedor {
+margin-left: 38%;
+	
+}
+
+.paginacion ul li {
+	display: inline-block;
+	margin-right: 10px; 
+}
+
+.paginacion ul .active a {
+	background: #16E911;
+}
+
+.paginacion ul .disabled {
+	background: #E94E35;
+	display: inline-block;
+	cursor:not-allowed;
+	color:#fff;
+	padding: 8px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.paginacion ul li a {
+	display: inline-block;
+	padding: 8px;
+	background: #E94E35;
+	color:#fff;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.paginacion ul li a:hover {
+	text-decoration: none;
+	background: #250890;
+}
+.span{
+    margin-right: 14px;
+	background: #E94E35;
+	color:#fff;
+	padding: 5px;
+	border-radius: 7px;
+}
